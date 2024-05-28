@@ -1,6 +1,6 @@
 ---
 name: 🆕 Feature request
-description: A new feature wished to be implemented
+about: A new feature wished to be implemented
 ---
 
 title: descriptive title

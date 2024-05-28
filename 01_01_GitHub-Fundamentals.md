@@ -2,9 +2,9 @@
 
 In this part you will learn how to navigate GitHub, use keyboard shortcuts and search, and you'll learn about GitHub Mobile and Markdown. This part contains the following sections:
 
-- [ ] [Navigating GitHub](#-navigating-github)
-- [ ] [Mobile and Profile](#-mobile-and--profile)
-- [ ] GitHub-flavored [markdown](#-markdown)
+- [x] [Navigating GitHub](#-navigating-github)
+- [x] [Mobile and Profile](#-mobile-and--profile)
+- [x] GitHub-flavored [markdown](#-markdown)
 
 ## 🧭 Navigating GitHub
 
@@ -24,9 +24,9 @@ Press <kbd>?</kbd> everywhere in GitHub to get context-sensitive list of [keyboa
 
 Try some. Here is a list you should at least try out:
 
-- [ ] Press <kbd>.</kbd> to open the current repository in [github.dev](https://github.dev/) (Visual Studio Code in the browser) or <kbd>></kbd> to open it in a new tab
-- [ ] Press <kbd>s</kbd> or <kbd>/</kbd> to start a search
-- [ ] Press <kbd>g</kbd>+<kbd>n</kbd> to go to the notifications
+- [x] Press <kbd>.</kbd> to open the current repository in [github.dev](https://github.dev/) (Visual Studio Code in the browser) or <kbd>></kbd> to open it in a new tab
+- [x] Press <kbd>s</kbd> or <kbd>/</kbd> to start a search
+- [x] Press <kbd>g</kbd>+<kbd>n</kbd> to go to the notifications
 
 ### 🔍 Command palette
 
@@ -37,15 +37,15 @@ Press the following keyboard shortcuts to [open the command palette](https://doc
   
 <img width="310" alt="image" src="https://user-images.githubusercontent.com/5276337/199483344-9a832d0a-4741-4277-8135-108b7f8fabbe.png">
 
-- [ ] Press <kbd>#</kbd> to search for issues, pull requests, discussions, and projects
-- [ ] Use filters like `# author:@me` or `# is:pr` in your search
-- [ ] Press <kbd>!</kbd> to search for projects
-- [ ] Press <kbd>/</kbd> to search for files
-- [ ] Press <kbd>?</kbd> to get help
-- [ ] Use <kbd>Tab</kbd> and <kbd>Backspace</kbd> or <kbd>Delete</kbd> to navigate in GitHub
-- [ ] Use <kbd>Enter</kbd> to select the item / navigate to it
-- [ ] Use <kbd>Ctrl</kbd>+<kbd>Backspace</kbd> (Windows / Linux) or <kbd>Command</kbd>+<kbd>Delete</kbd> (Mac) to clear the scope and textbox
-- [ ] Use <kbd>Esc</kbd> to close the command palette (or the same keyboard shortcut you used to open it).
+- [x] Press <kbd>#</kbd> to search for issues, pull requests, discussions, and projects
+- [x] Use filters like `# author:@me` or `# is:pr` in your search
+- [x] Press <kbd>!</kbd> to search for projects
+- [x] Press <kbd>/</kbd> to search for files
+- [x] Press <kbd>?</kbd> to get help
+- [x] Use <kbd>Tab</kbd> and <kbd>Backspace</kbd> or <kbd>Delete</kbd> to navigate in GitHub
+- [x] Use <kbd>Enter</kbd> to select the item / navigate to it
+- [x] Use <kbd>Ctrl</kbd>+<kbd>Backspace</kbd> (Windows / Linux) or <kbd>Command</kbd>+<kbd>Delete</kbd> (Mac) to clear the scope and textbox
+- [x] Use <kbd>Esc</kbd> to close the command palette (or the same keyboard shortcut you used to open it).
 
 ### ⚡ Running commands
 
@@ -58,9 +58,9 @@ Press the following keyboard shortcuts to [open the command palette in command m
 
 Try commands like:
 
-- [ ]  `Switch theme`
-- [ ]  `New gist`
-- [ ]  `New repository`
+- [x]  `Switch theme`
+- [x]  `New gist`
+- [x]  `New repository`
 
 ## 📱 Mobile and 👤 Profile
 
@@ -69,10 +69,10 @@ Try commands like:
 The user profile is the starting point for all personal owned repositories, projects, and packages.
 It can be customized:
 
-- [ ] Profile pic, name, and bio
-- [ ] Metadata (location, twitter handle, url, company)
-- [ ] You can add a readme by creating a repositoriy with the same name as your user name and adding a `Readme.md` there
-- [ ] You can pin repositories to the user profile
+- [x] Profile pic, name, and bio
+- [x] Metadata (location, twitter handle, url, company)
+- [x] You can add a readme by creating a repositoriy with the same name as your user name and adding a `Readme.md` there
+- [x] You can pin repositories to the user profile
 
 <img width="635" alt="image" src="https://user-images.githubusercontent.com/5276337/199670576-81ec4c53-6be9-447a-aaf5-f22d1deb3f4f.png">
 
